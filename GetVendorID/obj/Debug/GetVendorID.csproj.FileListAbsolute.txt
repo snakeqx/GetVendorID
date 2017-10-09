@@ -1,0 +1,9 @@
+E:\Programming\CSharp\GetVendorID\GetVendorID\bin\Debug\GetVendorID.exe.config
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.csprojResolveAssemblyReference.cache
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.Form1.resources
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.Properties.Resources.resources
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.csproj.GenerateResource.Cache
+E:\Programming\CSharp\GetVendorID\GetVendorID\bin\Debug\GetVendorID.exe
+E:\Programming\CSharp\GetVendorID\GetVendorID\bin\Debug\GetVendorID.pdb
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.exe
+E:\Programming\CSharp\GetVendorID\GetVendorID\obj\Debug\GetVendorID.pdb
